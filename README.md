@@ -30,7 +30,7 @@
                <bottom>Submit!</bottom>
                </form>
     <style>
-      h1,h2{color:blue;text-align:center}
+      h1,h2{color: blue;text-align: center;font-seize: 28x;font-family: arial; font-weight: bold;}
       </style>
     
   </body>
