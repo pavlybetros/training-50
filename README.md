@@ -7,7 +7,7 @@
   <body>
   Message= "Creator of the web"
     <image src="cat.jpg"
-           <image src="https://www.facebook.com/photo.php?fbid=10151935272866790&set=a.441192986789&type=3&theater"
+           <image src="https://www.facebook.com/photo.php?fbid=10151935272866790&set=a.441192986789&type=3&theater" hight="10" width="20">
            
   </body>
   
