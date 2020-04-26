@@ -29,6 +29,9 @@
             <input type="txt" placeholder="full name" name="name">
                <bottom>Submit!</bottom>
                </form>
+    <style>
+      h1,h2{color:blue;text-align:center}
+      </style>
     
   </body>
   
