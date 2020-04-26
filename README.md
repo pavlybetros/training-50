@@ -1,5 +1,6 @@
 # training-50
-<!doc.html>
+<!doctype html>
+<html>
 <title>
   Hi, world
   </title>
@@ -10,4 +11,5 @@
 <ol>
   man, girl, boy, woman, cat, dog
   </ol>
+  </html>
   
