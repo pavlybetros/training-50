@@ -32,7 +32,14 @@
     <style>
       h1,h2{color: blue;text-align: center;font-seize: 28x;font-family: arial; font-weight: bold;}
       </style>
-    
+    <div>
+      <div id="TOP">
+        this is the <span class="name">TOP</span> of my web page
+        
+    </div>
+    <style>
+    #top {color:red}
+    </style>
   </body>
   
 <ol>
